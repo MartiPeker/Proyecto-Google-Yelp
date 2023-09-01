@@ -1,27 +1,67 @@
 ![datafusion_logo](https://github.com/MartiPeker/Proyecto-Google-Yelp/assets/83708254/158a39f2-3576-4dd5-831a-430c17918318)
 
-# Proyecto de Análisis de Datos - Holiday Inn
+# Proyecto Final - Yelp + Google Maps
 
-En este proyecto, el equipo de DATAFUSION colabora con Holiday Inn para mejorar la satisfacción del cliente y la calidad del servicio a través del análisis de datos obtenidos de Yelp y Google.
+## Descripción
 
-# Equipo de DATAFUSION
+DATAFUSION es una consultora que surge de la necesidad creciente de aplicar ciencia de datos al análisis de negocios. Nuestro equipo trabaja incansablemente para amalgamar nivel de detalle con decisiones de negocio, logrando la perfecta fusión entre saber y hacer.
 
-DATAFUSION es una consultora que aplica la ciencia de datos al análisis de negocios. Nuestro equipo fusiona el nivel de detalle con las decisiones empresariales, logrando una perfecta combinación entre conocimiento y acción.
+## Equipo Asignado al Proyecto
 
-- M. Florencia Caro: Data & ML Engineer
-- Martina Peker: Data & ML Engineer
-- Naomi Larrosa: Data Analyst
-- Emily Cabas: Data Analyst & Engineer
-- Agustin Samperi: Data Engineer & Analyst
+![equipo](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/equipo.PNG)
 
-# Holiday Inn
+## Planteo del Proyecto
 
-Holiday Inn, una marca reconocida en Estados Unidos, atiende a viajeros de negocios y familias en vacaciones. Con una larga historia en la industria, busca mantener su reputación y servicio en evolución constante.
-En un mercado hotelero competitivo y centrado en la experiencia del cliente, Holiday Inn busca mejorar su enfoque en la satisfacción y calidad del servicio. Para comprender la percepción de los clientes, se analizan datos de plataformas como Google Maps y Yelp, incluyendo reseñas y sentimientos.
+En un mercado hotelero cada vez más competitivo y centrado en la experiencia del cliente, la cadena hotelera Holiday Inn busca mejorar su enfoque en la satisfacción del cliente y la calidad del servicio. Con el objetivo de comprender a fondo la percepción de los clientes a lo largo de los años, se ha planteado la necesidad de analizar diversos aspectos de datos obtenidos de plataformas clave como Google Maps y Yelp, incluyendo las reseñas y los sentimientos expresados en las mismas.
 
 ## Objetivos
 
-- Recopilar y analizar reseñas de clientes de Google Maps y Yelp.
-- Evaluar sentimientos en reseñas para identificar patrones positivos y áreas de mejora.
-- Proporcionar recomendaciones para mejorar satisfacción del cliente y calidad del servicio.
+El proyecto se centra en el análisis de reseñas y sentimientos de los huéspedes durante el periodo de 2016-2020 en los hoteles de la cadena Holiday Inn en Estados Unidos, así como las de los competidores en las plazas en las que opera. Se recopilarán y procesarán sets de datos de las plataformas Google Maps y Yelp, extrayendo información clave sobre la experiencia de los huéspedes y los aspectos que más influyen en sus percepciones.
+
+## Alcance
+
+La falta de datos de calidad posteriores a la fecha mencionada dificulta la ampliación del alcance, pero se presenta como una oportunidad de continuidad. Acceso irrestricto a los diferentes endpoints de las APIs de Google y Yelp permitirían brindar a los dashboards y modelo de Machine Learning la posibilidad de actualización por lotes diaria. Siendo el foco en servicios de hospedaje, la falta de datos relativos al checkout también significan una pérdida de oportunidad para un análisis más profundo.
+
+## Metodología 
+
+El equipo utiliza la metodología Scrum, planificando el Sprint, sosteniendo reuniones diarias, ejecutando las tareas de desarrollo, para luego revisar cada Sprint en una Demo con el Product Owner y realizar la reflexión retrospectiva. A continuación, el ciclo vuelve a comenzar con un nuevo Sprint hasta el fin del proyecto.
+
+![metodologia](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/metodologia.PNG)
+
+## Stack Tecnológico & Pipeline
+
+![stack](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/stack.PNG)
+
+## Producto de Machine Learning
+
+Utilizamos técnicas avanzadas de Procesamiento de Lenguaje Natural y Machine Learning para identificar patrones y tendencias en las opiniones de los huéspedes, categorizando las reseñas en función de su importancia y aspectos positivos y negativos. Esto permitirá generar un análisis FODA para identificar las fortalezas, oportunidades, debilidades y amenazas que emergen de los datos, tanto para nuestro cliente como para sus competidores.
+
+## Dashboard
+
+El Dashboard mostrará diferentes reportes e incluirá los KPIs relacionados con el proyecto.
+
+
+## Limitaciones
+
+Las limitaciones incluyen la falta de datos de calidad posteriores a 2020 y la falta de información relativa al checkout de los huéspedes.
+
+## Autores
+Los enlaces los llevaran a sus perfikes de LinkedIn
+- [M. Florencia Caro](https://www.linkedin.com/in/maria-florencia-c-86916b21/)
+- [Martina Peker](https://www.linkedin.com/in/marti-peker/)
+- [Naomi Larrosa](https://www.linkedin.com/in/naomi-d-larrosa-m-a27965271/)
+- [Emily Cabas](https://www.linkedin.com/in/emily-cabas-660a09211/)
+- [Agustín Samperi](https://www.linkedin.com/in/agustin-samperi/)
+
+## Advertencia
+
+Este proyecto es un ejercicio académico y de aprendizaje. Los datos utilizados, las técnicas de análisis, y cualquier resultado o conclusión presentados aquí son puramente ficticios y no deben interpretarse como representativos de la realidad. No se pretende que este proyecto tenga aplicaciones comerciales o prácticas en un entorno real. Su único propósito es demostrar habilidades y conocimientos en el campo de la ciencia de datos y el análisis de datos.
+
+Todas las referencias a marcas, nombres de empresas o servicios son utilizadas únicamente con fines ilustrativos y no implican ninguna afiliación real con las entidades mencionadas.
+
+Por favor, tenga en cuenta que cualquier uso o implementación de los conceptos presentados en este proyecto en un entorno real debe ser cuidadosamente evaluado y adaptado según las necesidades y requisitos específicos de la situación.
+
+Este proyecto es resultado del esfuerzo y el trabajo del equipo mencionado anteriormente como parte de un proceso de aprendizaje y formación en ciencia de datos y análisis de datos.
+
+¡Gracias por su comprensión y su interés en nuestro proyecto!
 
