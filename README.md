@@ -46,7 +46,7 @@ El Dashboard mostrará diferentes reportes e incluirá los KPIs relacionados con
 Las limitaciones incluyen la falta de datos de calidad posteriores a 2020 y la falta de información relativa al checkout de los huéspedes.
 
 ## Autores
-Los enlaces los llevaran a sus perfikes de LinkedIn
+Los enlaces los llevaran a sus perfiles de LinkedIn.
 - [M. Florencia Caro](https://www.linkedin.com/in/maria-florencia-c-86916b21/)
 - [Martina Peker](https://www.linkedin.com/in/marti-peker/)
 - [Naomi Larrosa](https://www.linkedin.com/in/naomi-d-larrosa-m-a27965271/)
