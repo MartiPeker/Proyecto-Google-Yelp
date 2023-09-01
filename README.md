@@ -36,6 +36,10 @@ El equipo utiliza la metodología Scrum, planificando el Sprint, sosteniendo reu
 
 Utilizamos técnicas avanzadas de Procesamiento de Lenguaje Natural y Machine Learning para identificar patrones y tendencias en las opiniones de los huéspedes, categorizando las reseñas en función de su importancia y aspectos positivos y negativos. Esto permitirá generar un análisis FODA para identificar las fortalezas, oportunidades, debilidades y amenazas que emergen de los datos, tanto para nuestro cliente como para sus competidores.
 
+# KPIs - Indicadores claves de rendimiento propuestos
+
+![kpis](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpis.PNG)
+
 ## Dashboard
 
 El Dashboard mostrará diferentes reportes e incluirá los KPIs relacionados con el proyecto.
