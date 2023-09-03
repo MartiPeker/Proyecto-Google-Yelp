@@ -8,7 +8,7 @@ DATAFUSION es una consultora que surge de la necesidad creciente de aplicar cien
 
 ## Equipo Asignado al Proyecto
 
-![Equipo](images/Roles.jpg)
+![Equipo](images/Equipo.jpg)
 
 ## Planteo del Proyecto
 
