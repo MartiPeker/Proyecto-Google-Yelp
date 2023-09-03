@@ -1,4 +1,4 @@
-![datafusion_logo](https://github.com/MartiPeker/Proyecto-Google-Yelp/assets/83708254/158a39f2-3576-4dd5-831a-430c17918318)
+![DataFusion Banner](images/Banner.jpg)
 
 # Proyecto Final - Yelp + Google Maps
 
@@ -8,7 +8,7 @@ DATAFUSION es una consultora que surge de la necesidad creciente de aplicar cien
 
 ## Equipo Asignado al Proyecto
 
-![equipo](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/equipo.PNG)
+![Equipo](images/Roles.jpg)
 
 ## Planteo del Proyecto
 
@@ -26,11 +26,11 @@ La falta de datos de calidad posteriores a la fecha mencionada dificulta la ampl
 
 El equipo utiliza la metodología Scrum, planificando el Sprint, sosteniendo reuniones diarias, ejecutando las tareas de desarrollo, para luego revisar cada Sprint en una Demo con el Product Owner y realizar la reflexión retrospectiva. A continuación, el ciclo vuelve a comenzar con un nuevo Sprint hasta el fin del proyecto.
 
-![metodologia](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/metodologia.PNG)
+![Metodologia](images/TimelineEdited.jpg)
 
 ## Stack Tecnológico & Pipeline
 
-![stack](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/stack.PNG)
+![Stack](images/StackPipeline.jpg)
 
 ## Producto de Machine Learning
 
@@ -38,7 +38,7 @@ Utilizamos técnicas avanzadas de Procesamiento de Lenguaje Natural y Machine Le
 
 # KPIs - Indicadores claves de rendimiento propuestos
 
-![kpis](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpis.PNG)
+![KPIs](images/KPIs.jpg)
 
 ## Dashboard
 
