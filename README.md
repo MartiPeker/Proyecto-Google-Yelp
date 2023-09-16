@@ -14,6 +14,24 @@ DATAFUSION es una consultora que surge de la necesidad creciente de aplicar cien
 
 En un mercado hotelero cada vez más competitivo y centrado en la experiencia del cliente, la cadena hotelera Holiday Inn busca mejorar su enfoque en la satisfacción del cliente y la calidad del servicio. Con el objetivo de comprender a fondo la percepción de los clientes a lo largo de los años, se ha planteado la necesidad de analizar diversos aspectos de datos obtenidos de plataformas clave como Google Maps y Yelp, incluyendo las reseñas y los sentimientos expresados en las mismas.
 
+## Navegación Rápida
+
+- [Objetivos](#objetivos)
+- [Alcance](#alcance)
+- [Limitaciones](#limitaciones)
+- [Metodología](#metodología)
+- [Diagrama Entidad-Relación](#diagrama-entidad-relación)
+- [Stack Tecnológico & Pipeline](#stack-tecnológico--pipeline)
+- [KPIs - Indicadores Claves de Rendimiento Propuestos](https://github.com/MartiPeker/Proyecto-Google-Yelp/edit/main/README.md#proyecto-final---yelp--google-maps)
+- [Pipeline del Proceso de ETL](#pipeline-del-proceso-de-etl)
+- [Producto de Machine Learning](#producto-de-machine-learning)
+- [Procesamiento de Lenguaje Natural (NLP)](#procesamiento-de-lenguaje-natural-nlp)
+- [Pipeline de Carga Incremental ML](#pipeline-de-carga-incremental-ml)
+- [Dashboard](#dashboard)
+- [Conclusión](#conclusión)
+- [Autores](#autores)
+- [Advertencia](#advertencia)
+
 ## Objetivos
 
 El proyecto se centra en el análisis de reseñas y sentimientos de los huéspedes durante el periodo de 2016-2020 en los hoteles de la cadena Holiday Inn en Estados Unidos, así como las de los competidores en las plazas en las que opera. Se recopilarán y procesarán sets de datos de las plataformas Google Maps y Yelp, extrayendo información clave sobre la experiencia de los huéspedes y los aspectos que más influyen en sus percepciones.
