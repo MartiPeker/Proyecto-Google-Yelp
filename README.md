@@ -42,8 +42,7 @@ Pueden ver el diccionario de datos en este link(Proxiamamente)
 
 # KPIs - Indicadores claves de rendimiento propuestos
 
-![KPIsgoogle](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpisgoogle.JPG)
-![KpisYelp](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpisyelp.JPG)
+
 
 ## Pipeline del Proceso de ETL
 ![ETL](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/ETLPipeline.JPG)
