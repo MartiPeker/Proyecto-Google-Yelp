@@ -52,7 +52,7 @@ El equipo utiliza la metodología Scrum, planificando el Sprint, sosteniendo reu
 
 ## Diagrama Entidad-Relación
 ![DER](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/DER.JPG)
-Pueden ver el diccionario de datos en este link(Proxiamamente)
+Pueden ver el diccionario de datos [aquí](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/DiccionarioDeDatos.docx)
 ## Stack Tecnológico & Pipeline
 
 ![Stack](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/StackPipeline.JPG)
