@@ -22,7 +22,7 @@ En un mercado hotelero cada vez más competitivo y centrado en la experiencia de
 - [Metodología](#metodología)
 - [Diagrama Entidad-Relación](#diagrama-entidad-relación)
 - [Stack Tecnológico & Pipeline](#stack-tecnológico--pipeline)
-- [KPIs - Indicadores Claves de Rendimiento Propuestos](https://github.com/MartiPeker/Proyecto-Google-Yelp/edit/main/README.md#proyecto-final---yelp--google-maps)
+- [KPIs - Indicadores Claves de Rendimiento Propuestos](#kpis---indicadores-claves-de-rendimiento-propuestos)
 - [Pipeline del Proceso de ETL](#pipeline-del-proceso-de-etl)
 - [Producto de Machine Learning](#producto-de-machine-learning)
 - [Procesamiento de Lenguaje Natural (NLP)](#procesamiento-de-lenguaje-natural-nlp)
@@ -175,6 +175,26 @@ Implementamos nuestros modelos en producción y establecemos un pipeline para la
 
 ## Pipeline de Carga Incremental ML
 ![CargaIncremental](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/CargaIncremental.JPG)
+
+La carga incremental de Machine Learning es una parte fundamental de nuestro proyecto para mantener nuestros modelos actualizados con nuevos datos de manera eficiente. Este proceso involucra la automatización y ejecución en varias etapas:
+
+#### 1. Automatización en Cloud Scheduler (Scheduled Jobs)
+
+En esta etapa, utilizamos Cloud Scheduler para programar trabajos de carga incremental. Esto permite que el proceso se ejecute automáticamente en momentos específicos, lo que garantiza que nuestros modelos siempre estén actualizados con los datos más recientes.
+
+#### 2. Ejecución en Vertex AI Runs
+
+Una vez que se activa el proceso programado, se inicia la ejecución en Vertex AI Runs. Vertex AI proporciona un entorno de ejecución escalable y eficiente para aplicar nuestros modelos a los nuevos datos entrantes.
+
+#### 3. Data Warehouse en BigQuery con SQL Queries
+
+En esta etapa, utilizamos consultas SQL en BigQuery para procesar los datos actualizados y prepararlos para su uso en nuestros modelos de Machine Learning. Esto puede incluir la combinación de datos, cálculos y transformaciones adicionales.
+
+#### 4. Nueva Ejecución con Vertex AI Runs
+
+Después de procesar los datos actualizados en BigQuery, volvemos a ejecutar nuestros modelos en Vertex AI Runs. Esto asegura que los modelos se ajusten a los nuevos datos y generen resultados actualizados.
+
+Este proceso de carga incremental de Machine Learning garantiza que nuestros modelos estén siempre sincronizados con la información más reciente, lo que mejora la calidad de nuestras predicciones y análisis continuos.
 
 ## Dashboard
 
