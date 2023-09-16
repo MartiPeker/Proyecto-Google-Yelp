@@ -62,6 +62,56 @@ Pueden ver el diccionario de datos [aquí](https://github.com/MartiPeker/Proyect
 ![kpisgoogle](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpisG.JPG)
 ![kpisyelp](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/kpisY.JPG)
 
+## Yelp:
+
+### Índice de Penetración:
+
+**Objetivo:** Este KPI mide la participación de mercado de Holiday Inn en relación con la competencia en la plataforma Yelp. Un valor del 12% significa que Holiday Inn busca alcanzar una cuota de mercado del 12% en términos de check-ins en Yelp.
+
+### Índice de Ocupación Anual:
+
+**Objetivo:** Este KPI evalúa el crecimiento en la ocupación de los hoteles de Holiday Inn en Yelp en comparación con el año anterior. Un valor del 1% indica un objetivo modesto de aumento anual en la ocupación.
+
+### Índice de Ocupación Mensual:
+
+**Objetivo:** Similar al índice de ocupación anual, este KPI se enfoca en el crecimiento mensual en la ocupación de los hoteles de Holiday Inn en Yelp.
+
+### Índice de Satisfacción al Cliente:
+
+**Objetivo:** Mide la proporción de reseñas positivas en comparación con el total de reseñas. Un objetivo del 5% más que el mes anterior indica el esfuerzo continuo de Holiday Inn por mejorar la satisfacción del cliente en Yelp.
+
+### Índice de Fidelidad:
+
+**Objetivo:** Evalúa la proporción de usuarios únicos en comparación con el total de reseñas. Un aumento del 5% respecto al mes anterior refleja el esfuerzo de retener a los clientes y generar reseñas continuas.
+
+### Índice de Sentimiento Positivo:
+
+**Objetivo:** Refleja el promedio de calificaciones en estrellas de Holiday Inn en Yelp. El objetivo constante de 3.5 sugiere que Holiday Inn busca mantener un buen promedio de calificaciones.
+
+### Índice de Influencia:
+
+**Objetivo:** Mide la influencia de Holiday Inn en Yelp calculando el número promedio de fans por usuario. Un objetivo de "5 fans por usuario" indica que Holiday Inn busca aumentar su base de seguidores en Yelp.
+
+## Google:
+
+### Índice de Sentimiento Positivo:
+
+**Objetivo:** Refleja el promedio de calificaciones en estrellas de Holiday Inn en Google. El objetivo constante de 4 sugiere que Holiday Inn busca mantener un buen promedio de calificaciones.
+
+### Índice de Fidelidad:
+
+**Objetivo:** Evalúa la proporción de usuarios únicos en comparación con el total de reseñas en Google. Un aumento del 5% respecto al mes anterior refleja el esfuerzo de retener a los clientes y generar reseñas continuas.
+
+### Índice de Respuesta:
+
+**Objetivo:** Mide la capacidad de respuesta de Holiday Inn a las reseñas de Google. El objetivo de un "15% más que el mes anterior" indica que Holiday Inn busca mejorar la interacción con los clientes.
+
+### Índice de Satisfacción al Cliente:
+
+**Objetivo:** Mide la proporción de reseñas positivas en comparación con el total de reseñas en Google. Un objetivo del 5% más que el mes anterior refleja el esfuerzo continuo de Holiday Inn por mejorar la satisfacción del cliente en Google.
+
+Estos KPIs son herramientas esenciales para evaluar y guiar el desempeño de Holiday Inn en las plataformas de Yelp y Google, y cada uno tiene un objetivo específico para impulsar mejoras y estrategias en la gestión de la marca y la satisfacción del cliente.
+
 
 ## Pipeline del Proceso de ETL
 ![ETL](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/ETLPipeline.JPG)
