@@ -250,7 +250,7 @@ Este proceso de carga incremental de Machine Learning garantiza que nuestros mod
 
 ## Dashboard
 
-Nuestro proyecto incluye un completo dashboard con cinco páginas que ofrecen información esencial y visualizaciones detalladas sobre el análisis de datos de Google y Yelp. Aquí el [link](https://drive.google.com/file/d/1R2n0_4TccsWuV58OfzbmU6vYfhQJ0pK3/view?usp=drive_link) de acceso al archivo
+Nuestro proyecto incluye un completo dashboard con cinco páginas que ofrecen información esencial y visualizaciones detalladas sobre el análisis de datos de Google y Yelp. Aquí el [link](https://drive.google.com/file/d/1cADYw4MMVVzhyyxctn598wXO3g8_Z61r/view?usp=sharing) de acceso al archivo
 
 ![Dashboard](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/video-dash.gif)
 
