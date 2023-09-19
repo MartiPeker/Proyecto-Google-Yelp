@@ -14,7 +14,7 @@ DATAFUSION es una consultora que surge de la necesidad creciente de aplicar cien
 
 En un mercado hotelero cada vez más competitivo y centrado en la experiencia del cliente, la cadena hotelera Holiday Inn busca mejorar su enfoque en la satisfacción del cliente y la calidad del servicio. Con el objetivo de comprender a fondo la percepción de los clientes a lo largo de los años, se ha planteado la necesidad de analizar diversos aspectos de datos obtenidos de plataformas clave como Google Maps y Yelp, incluyendo las reseñas y los sentimientos expresados en las mismas.
 
-Video introductorio al proyecto [aquí.](https://www.youtube.com/watch?v=gUhlWln-Tl4)
+Video introductorio al proyecto [aquí.](https://www.youtube.com/watch?v=y8fGrsra5mk)
 
 ## Navegación Rápida
 
