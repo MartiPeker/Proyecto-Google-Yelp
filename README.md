@@ -118,7 +118,7 @@ Estos KPIs son herramientas esenciales para evaluar y guiar el desempeño de Hol
 ## Pipeline del Proceso de ETL
 ![ETL](https://github.com/MartiPeker/Proyecto-Google-Yelp/blob/main/images/ETLPipeline.JPG)
 
-El proceso de Extracción, Transformación y Carga (ETL) es fundamental en nuestro proyecto para preparar y procesar los datos de manera efectiva. Este Playplan describe las diferentes etapas del proceso ETL utilizando herramientas de Google Cloud Platform (GCP).
+El proceso de Extracción, Transformación y Carga (ETL) es fundamental en nuestro proyecto para preparar y procesar los datos de manera efectiva. Este Pipeline describe las diferentes etapas del proceso ETL utilizando herramientas de Google Cloud Platform (GCP).
 
 #### 1. Data Source
 
@@ -140,7 +140,7 @@ Después de la exploración inicial, avanzamos a la etapa de transformación de 
 
 Finalmente, en la etapa del Data Warehouse, los datos transformados se almacenan nuevamente en BigQuery. En este punto, los datos han sido procesados, limpiados y enriquecidos, y están listos para su uso en análisis más avanzados, generación de informes o construcción de modelos de Machine Learning. Aquí podemos realizar consultas SQL complejas para extraer información específica o preparar los datos para análisis posteriores.
 
-Este Playplan del proceso ETL en Google Cloud Platform demuestra cómo los datos se mueven desde las fuentes hasta un sistema de almacenamiento en la nube, se exploran, transforman y finalmente se almacenan en un almacén de datos listos para su análisis. Cada etapa utiliza las herramientas y servicios adecuados de GCP para garantizar un procesamiento eficiente y de alta calidad de los datos en cada paso del camino.
+Este Pipeline del proceso ETL en Google Cloud Platform demuestra cómo los datos se mueven desde las fuentes hasta un sistema de almacenamiento en la nube, se exploran, transforman y finalmente se almacenan en un almacén de datos listos para su análisis. Cada etapa utiliza las herramientas y servicios adecuados de GCP para garantizar un procesamiento eficiente y de alta calidad de los datos en cada paso del camino.
 
 ## Producto de Machine Learning
 
